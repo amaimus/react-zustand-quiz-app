@@ -4,6 +4,7 @@ import { type Question as QuestionType } from '../types'
 import SyntaxHighLighter from 'react-syntax-highlighter'
 import { gradientDark } from 'react-syntax-highlighter/dist/esm/styles/hljs'
 import { ArrowBackIosNew, ArrowForwardIos } from '@mui/icons-material'
+import { Footer } from './Footer'
 
 const getBackgroundColor = (info: QuestionType, index: number) => {
   const { userSelectedAnswer, correctAnswer } = info
@@ -86,11 +87,11 @@ export function Game () {
           onClick={goNextQuestion}
           disabled={currentQuestion >= questions.length - 1}
         >
-          {currentQuestion}
           <ArrowForwardIos />
         </IconButton>
       </Stack>
       <Question info={questionInfo}/>
+      <Footer />
     </>
   )
 }
