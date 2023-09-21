@@ -1,1 +1,1 @@
-# React + Zustand | Quizz app
+# React + Zustand | Quiz app
