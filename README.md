@@ -1,4 +1,13 @@
 # React + Zustand | Quiz app
-![image](https://github.com/amaimus/react-zustand-quiz-app/assets/35699916/308ea345-1036-447b-9502-efc7b2ac6aa1)
 
-![image](https://github.com/amaimus/react-zustand-quiz-app/assets/35699916/50afbfd5-9cf2-4d83-b5e0-1d840040e974)
+🟥 **Español**
+
+Se ha desarrollado un juego de preguntas de programación utilizando React, TypeScript y Zustand como una alternativa a Redux. Para los estilos visuales, se ha implementado MaterialUI. En este juego, se muestra la puntuación del usuario, se indica si la respuesta es correcta o incorrecta y se permite la navegación entre hasta 10 preguntas.
+
+🟦 **English**
+
+A programming quiz game has been developed using React, TypeScript, and Zustand as an alternative to Redux. MaterialUI has been employed for the visual styles. In this game, the user's score is displayed, whether the answer is correct or incorrect is indicated, and navigation is enabled for up to 10 questions.
+
+![react-zustand-quiz-app](https://github.com/amaimus/react-zustand-quiz-app/assets/35699916/17291ebe-abfe-4e1f-97ae-fe0b265b50f1)
+
+--- 
