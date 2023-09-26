@@ -8,6 +8,6 @@ Se ha desarrollado un juego de preguntas de programación utilizando React, Type
 
 A programming quiz game has been developed using React, TypeScript, and Zustand as an alternative to Redux. MaterialUI has been employed for the visual styles. In this game, the user's score is displayed, whether the answer is correct or incorrect is indicated, and navigation is enabled for up to 10 questions.
 
-![react-zustand-quiz-app](https://github.com/amaimus/react-zustand-quiz-app/assets/35699916/17291ebe-abfe-4e1f-97ae-fe0b265b50f1)
+![react-zustand-quiz-app](https://github.com/amaimus/react-zustand-quiz-app/assets/35699916/83450ec1-5d21-4bc5-a97f-725b64bde7a3)
 
 --- 
