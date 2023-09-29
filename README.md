@@ -2,7 +2,7 @@
 
 🟥 **Español**
 
-Se ha desarrollado un juego de preguntas de programación utilizando React, TypeScript y Zustand como una alternativa a Redux. Para los estilos visuales, se ha implementado MaterialUI. En este juego, se muestra la puntuación del usuario, se indica si la respuesta es correcta o incorrecta y se permite la navegación entre hasta 10 preguntas.
+Se ha desarrollado un juego de preguntas de programación utilizando React, TypeScript y Zustand como una alternativa a Redux. Para los estilos visuales, se ha implementado MaterialUI. En este juego, se muestra la puntuación del usuario, se indica si la respuesta es correcta o incorrecta y se permite la navegación entre 10 preguntas.
 
 🟦 **English**
 
